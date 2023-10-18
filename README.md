@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Bhurane</h1> 
 <h3 align="center">A passionate C++ programmer & frontend developer.</h3>
 
+
 <img align= "right" alt="coding" width = "400" src="9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavibhurane&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavibhurane" /> </p>
