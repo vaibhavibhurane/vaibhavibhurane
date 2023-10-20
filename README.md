@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavibhurane&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavibhurane" /> </p>
 
 - 🔭 I’m currently working on **Blockchain Project**
-- 
 
 - 🌱 I’m currently learning **Blockchain**
 
